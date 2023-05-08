@@ -1,13 +1,13 @@
 @echo off
 
-title activar windows 7
+title Activar Windows 7
 echo:
 echo:______________________________________________________________________
-echo: activador para windows 7 en todas sus versiones
+echo: Activador para Windows 7 en todas sus versiones
 echo: 
-echo: este activador solo funciona por unos dias y tienes que volver a usarlo
+echo: Este activador solo funciona por unos días y tienes que volver a usarlo
 echo: 
-echo: preciona cualquier tecla para activar su windows 7
+echo: Presiona cualquier tecla para activar su Windows 7
 echo:______________________________________________________________________
 echo:
 
@@ -24,23 +24,23 @@ cls
 color A
 echo:
 echo:______________________________________________________________________
-echo: "Su windows 7 a sido activado con exito"
+echo: "Su windows 7 ha sido activado con exito"
 echo: 
-echo: preciona cualquier tecla para continuar
+echo: Presiona cualquier tecla para continuar
 echo: 
-echo: "Version del activador: V1.0"
+echo: "Versión del activador: V1.0"
 echo:______________________________________________________________________
 echo:
 pause
 cls
 echo:
 echo:______________________________________________________________________
-echo: "Si tiene algun problema con el activador contactar a Shaggydreansificado#0460"
+echo: "Si tiene algun problema con el activador contactar a Shaggy Dreamsificado#0460"
 echo: 
-echo: Para aplicar los canbios reiniciar su PC 
+echo: Para aplicar los cambios debes reiniciar su equipo
 echo:
-echo: Futuras actualizaciones se agregaran mas activadores para windows 8,8.1,10 y 11
+echo: En futuras actualizaciones se agregaran mas activadores para Windows 8,8.1,10 y 11
 echo: 
-echo: preciona cualquier tecla para cerra este cmd
+echo: Presiona cualquier tecla para cerrar este CMD
 echo:______________________________________________________________________
 pause
